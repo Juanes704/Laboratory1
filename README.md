@@ -1,4 +1,4 @@
-# Laboratory1
+# st0244-2023-2-lab1
 
 -Full Names: Felipe Castro Jaimes & Juan Esteban Zuluaga
 -Operating System Version Used: Windows 10 Version 22H2
